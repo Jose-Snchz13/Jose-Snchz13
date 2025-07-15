@@ -16,10 +16,6 @@ Soy un **desarrollador Full Stack junior** con experiencia en tecnologías como 
 - 💡 [Symplex-Entorno (TFG)](https://github.com/Jose-Snchz13/symplex-entorno)  
   Fork de mi Trabajo de Fin de Grado donde profundizo en entornos interactivos.
 
-### 📈 Estadísticas de GitHub
-
-![José's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jose-Snchz13&show_icons=true&theme=tokyonight)
-
 ### 📫 Contacto
 
 - 📧 jsanchezdominguez57@gmail.com
